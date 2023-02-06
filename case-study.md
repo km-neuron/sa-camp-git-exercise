@@ -143,13 +143,13 @@ Lalu kita tambahkan commit untuk penambahan file tersebut dengan pesan "init das
 </html>
 ```
 
-Karena malah sudah larut dan kita butuh istirahat untuk lanjut bekerja di keesokan harinya. Akhirnya sementara kita menyudahi pekerjaan di branch `dashboard-feature` dan beristirahat. Namun sebelum itu, tidak lupa kita melakukan commit dengan pesan "add initial chart 1 and chart 2"
+Karena malam sudah larut dan kita butuh istirahat untuk lanjut bekerja di keesokan harinya. Akhirnya sementara kita menyudahi pekerjaan di branch `dashboard-feature` dan beristirahat. Namun sebelum itu, tidak lupa kita melakukan commit dengan pesan "add initial chart 1 and chart 2"
 
 ## Scenario 3
 
 Keesokan harinya di jam kerja, kita siap kembali megerjakan feature utama dari aplikasi yang kita buat.
 
-Jadi kita harus kembali ke branch utama yaitu `master`. Lalu kita lanjutkan untuk mengerjakan file `material.html` dan menambahkan beberapa paragraph dari file tersebut:
+Jadi kita harus kembali ke branch utama yaitu `main`. Lalu kita lanjutkan untuk mengerjakan file `material.html` dan menambahkan beberapa paragraph dari file tersebut:
 
 ```html
 <html>
@@ -246,7 +246,7 @@ Setelah branch digabungkan, kita siap untuk mengerjakan file selanjutnya yaitu f
 
 Setelah menambahkan pertanyaan tersebut, kita lakukan commit dengan pesan "add two question git init"
 
-Di commit kita selanjutnya menambahkan total 1.000 soal:
+Di commit kita selanjutnya, kita menambahkan total 1.000 soal:
 
 ```html
 <html>
@@ -276,7 +276,7 @@ Di commit kita selanjutnya menambahkan total 1.000 soal:
 </html>
 ```
 
-Tidak lupa melakukan commit dengan pesan "add 1000 question". Namun, baru saja kita melakukan commit, Tiba-tiba boss kita diminta untuk tidak membuat soal sebanyak itu. Cukup dengan 5 soal saja. Akhirnya, di commit berikutnya kita dan **menghapus semua soal** tersebut dan menggantinya dengan 5 soal:
+Tidak lupa melakukan commit dengan pesan "add 1000 question". Namun, baru saja kita melakukan commit, Tiba-tiba boss kita minta untuk tidak membuat soal sebanyak itu. Cukup dengan 5 soal saja. Akhirnya, di commit berikutnya kita **menghapus semua soal** tersebut dan menggantinya dengan 5 soal:
 
 ```html
 <html>
@@ -417,7 +417,7 @@ Contributor:
 - Bob
 ```
 
-Dan melakukan commit dengan pesan "add README.md and complete assignment Git" juga melakukan **Push** ke repository Github kita. Akhirnya, aplikasi kita dinobatkan sebagai aplikasi pembelajaran terbaik di **Indonesia** 😄 dan tentunya kita bisa mengembangkan aplikasi ini sampai ke manca negara. 🕺
+Dan melakukan commit dengan pesan "add README.md and complete exercise Git" juga melakukan **Push** ke repository Github kita. Akhirnya, aplikasi kita dinobatkan sebagai aplikasi pembelajaran terbaik di **Indonesia** 😄 dan tentunya kita bisa mengembangkan aplikasi ini sampai ke manca negara. 🕺
 
 Last Graph commit:
 
